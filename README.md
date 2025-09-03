@@ -23,14 +23,12 @@ Projects – Links to GitHub repositories
 About – Links to connect on LinkedIn
 
 📷 Preview
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/e2e93ffa-a435-4c28-ad19-e17e06cce7c4" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6ff7d81a-4fd3-4d82-8b36-1bd5840f60dd" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/aa07ce2b-e6f8-44f9-b026-712d58257624" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bc45acf5-968c-4823-af1d-31295aabe58b" />
+<img width="1894" height="905" alt="image" src="https://github.com/user-attachments/assets/5c7ecea2-88e5-4d42-b6d8-2292d41c60fe" />
+<img width="1752" height="889" alt="image" src="https://github.com/user-attachments/assets/bbaf037d-eb3d-44bd-a5d0-e51c24be23a9" />
+<img width="1739" height="851" alt="image" src="https://github.com/user-attachments/assets/be928bd6-9048-44db-9d19-5c47ac3c7d69" />
+<img width="1761" height="884" alt="image" src="https://github.com/user-attachments/assets/3c72b407-74a6-44ee-afbd-41f046bf5e0b" />
 
-
-
-
+WEBSITE LINK :http://127.0.0.1:5500/index4.html
 
 📬 Contact
 LinkedIn: www.linkedin.com/in/harsha-sri-a5b371288
