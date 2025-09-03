@@ -64,16 +64,6 @@ This portfolio project is a modern web showcase built with HTML5, CSS3, and vani
 
 Live Portfolio Badge
 ❃ Portfolio Development Resources
-🧩 Core Web Technologies
-1] HTML5 – Semantic markup with modern web standards and accessibility features
-2] CSS3 – Advanced styling with Grid, Flexbox, animations, and custom properties
-3] JavaScript ES6+ – Modern language features for interactive web applications
-4] Responsive Design – Mobile-first approach with fluid layouts and breakpoints
-5] Web Accessibility – WCAG guidelines for inclusive user experiences
-6] Performance Optimization – Fast loading times and efficient resource management
-
-HTML5 CSS3 JavaScript Responsive Design Web Accessibility Performance
-
 ⚙️ Portfolio Section Types
 1] Hero Section:
 Dynamic landing area with animated typing effects, professional introductions, and call-to-action buttons.
