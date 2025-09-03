@@ -22,12 +22,47 @@ Goals – My career aspirations in AI/ML
 Projects – Links to GitHub repositories
 About – Links to connect on LinkedIn
 
-📷 Preview
-<img width="1894" height="905" alt="image" src="https://github.com/user-attachments/assets/5c7ecea2-88e5-4d42-b6d8-2292d41c60fe" />
-<img width="1752" height="889" alt="image" src="https://github.com/user-attachments/assets/bbaf037d-eb3d-44bd-a5d0-e51c24be23a9" />
-<img width="1739" height="851" alt="image" src="https://github.com/user-attachments/assets/be928bd6-9048-44db-9d19-5c47ac3c7d69" />
-<img width="1761" height="884" alt="image" src="https://github.com/user-attachments/assets/3c72b407-74a6-44ee-afbd-41f046bf5e0b" />
 
+ 💻Key Features of the Website:
+Modern Design: It uses a sleek, dark theme with a professional black, yellow, and white color scheme.
+
+Fully Responsive: The layout automatically adjusts to look great on any device, from a large desktop monitor to a small mobile phone.
+
+Interactive Elements: The site includes smooth scrolling, hover effects on links and projects, and subtle animations that make each section fade in as you scroll down.
+
+Mobile-Friendly Navigation: On smaller screens, a clean hamburger menu appears for easy navigation.
+
+How It Was Styled and Built:
+The website was created from scratch using modern web development practices. Here are the important technologies and styling choices that make it work:
+
+Core Technologies:
+HTML5: Used for the basic structure and all the content on the page.
+
+CSS3: Used for all the custom styling and animations.
+
+JavaScript (ES6): Used to handle the interactive features.
+
+Styling and Frameworks:
+The look and feel of the website come from a combination of the Tailwind CSS framework and a custom stylesheet.
+
+Tailwind CSS: This is the primary tool used for styling. It's a "utility-first" framework, which is why you see many classes like bg-black, text-yellow-400, and md:flex directly in the HTML. It was used to build everything from the navigation bar and buttons to the responsive grids for your skills and projects.
+
+Custom CSS (style.css): For special effects that Tailwind doesn't cover, a custom stylesheet was added. It includes:
+
+Google Fonts: To import the 'Poppins' and 'Roboto Slab' fonts, giving the site its modern typography.
+
+Text Glow Effect: A custom text-shadow rule creates the yellow glow on your main title.
+
+Scroll Animations: The custom CSS defines the "fade-in" animation that is applied to each section as you scroll.
+
+Interactivity (script.js):
+A lightweight, custom JavaScript file powers the site's interactive elements. It does two main things:
+
+Mobile Menu Control: It listens for clicks on the hamburger icon to show or hide the mobile menu.
+
+Scroll Animations: It detects when you scroll down the page. As each section comes into view, the script triggers the fade-in animation, making the content appear smoothly.
+
+📷 Preview
 WEBSITE LINK :http://127.0.0.1:5500/index4.html
 
 📬 Contact
